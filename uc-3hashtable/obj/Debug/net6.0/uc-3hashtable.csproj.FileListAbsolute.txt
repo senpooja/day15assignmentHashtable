@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\bin\Debug\net6.0\uc-3hashtable.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\bin\Debug\net6.0\uc-3hashtable.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\bin\Debug\net6.0\uc-3hashtable.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\bin\Debug\net6.0\uc-3hashtable.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\bin\Debug\net6.0\uc-3hashtable.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\uc-3hashtable.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\uc-3hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\uc-3hashtable.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\uc-3hashtable.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\uc-3hashtable.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\uc-3hashtable.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\refint\uc-3hashtable.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\uc-3hashtable.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\uc-3hashtable.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\uc-3hashtable\obj\Debug\net6.0\ref\uc-3hashtable.dll
