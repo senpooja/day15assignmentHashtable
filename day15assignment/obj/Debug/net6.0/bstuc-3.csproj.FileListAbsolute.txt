@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\bin\Debug\net6.0\bstuc-3.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\bin\Debug\net6.0\bstuc-3.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\bin\Debug\net6.0\bstuc-3.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\bin\Debug\net6.0\bstuc-3.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\bin\Debug\net6.0\bstuc-3.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\bstuc-3.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\bstuc-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\bstuc-3.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\bstuc-3.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\bstuc-3.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\bstuc-3.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\refint\bstuc-3.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\bstuc-3.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\bstuc-3.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day15assignment\day15assignment\obj\Debug\net6.0\ref\bstuc-3.dll
